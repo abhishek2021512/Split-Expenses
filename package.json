@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "framer-motion": "^11.1.7",
+    "react-bootstrap": "^2.10.2",
+    "react-lottie": "^1.2.4",
+    "vite": "^5.2.10"
+  }
+}
